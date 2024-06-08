@@ -16,7 +16,6 @@ xlsxwriter for creating Excel files.
 You can install these packages using pip:
 
 ```bash
-Copy code
 pip install requests beautifulsoup4 pandas xlsxwriter
 ```
 
@@ -24,7 +23,6 @@ pip install requests beautifulsoup4 pandas xlsxwriter
 To use this script, simply run the Python file:
 
 ```bash
-Copy code
 python scrape_usl_championship_stats.py
 ```
 
