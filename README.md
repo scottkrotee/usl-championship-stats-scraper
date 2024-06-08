@@ -3,17 +3,25 @@ This Python script is designed to scrape and export statistics from the USL Cham
 
 ## Features
 Scrape statistics from USL Championship Stats
+
 Export data into individual sheets within an Excel workbook
+
 Handles different table structures and merges multiple headers
 
 ## Prerequisites
 Before running this script, ensure you have the following packages installed:
 
 requests for sending HTTP requests.
+
 beautifulsoup4 for parsing HTML content.
+
 pandas for data manipulation and export.
+
 xlsxwriter for creating Excel files.
+
+
 You can install these packages using pip:
+
 
 ```bash
 pip install requests beautifulsoup4 pandas xlsxwriter
