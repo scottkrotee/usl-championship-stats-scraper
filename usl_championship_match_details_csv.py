@@ -1,3 +1,5 @@
+### Author: Scott Krotee - 2024 ###
+
 import requests
 from bs4 import BeautifulSoup
 import csv

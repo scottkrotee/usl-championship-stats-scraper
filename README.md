@@ -19,7 +19,6 @@ pandas for data manipulation and export.
 
 xlsxwriter for creating Excel files.
 
-
 You can install these packages using pip:
 
 

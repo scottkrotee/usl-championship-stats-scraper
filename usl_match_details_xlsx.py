@@ -1,3 +1,5 @@
+### Author: Scott Krotee - Sept 7, 2024 ###
+
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
